@@ -1,0 +1,16 @@
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\bin\Debug\MetbStockKontrol.exe.config
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\bin\Debug\MetbStockKontrol.exe
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\bin\Debug\MetbStockKontrol.pdb
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.csproj.AssemblyReference.cache
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.Properties.Resources.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.csproj.GenerateResource.cache
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.csproj.CoreCompileInputs.cache
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.exe
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.pdb
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.Form1.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.Form2.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.LoginScreen.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.Activation.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.MainMenu.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.AddProducts.resources
+C:\Users\NSLMT\source\repos\MetbStockKontrol\MetbStockKontrol\obj\Debug\MetbStockKontrol.ProductDetails.resources
